@@ -4,9 +4,9 @@
 ## Profil
 | Variable | Isi |
 | -------- | --- |
-| **Nama** | Gilar Sumilar |
-| **NIM** | 312210407 |
-| **Kelas** | TI.22.A.4 |
+| **Nama** | Delfyno dwi prastyo |
+| **NIM** | 312310480 |
+| **Kelas** | TI.23.A.5 |
 | **Mata Kuliah** | Bahasa Pemrograman |
 
 ### Tugas Praktikum
@@ -138,7 +138,10 @@ while True:
 ### Hasil Program 
 
 #### Menambahkan data & Melihat data  
-![1](Pitcure/Gambar1.png)
+![Alt text](image.png)
 
 #### Mengubah & menghapus data
-![2](Pitcure/Gambar2.png)
+![Alt text](image-1.png)
+
+## Flowchart
+![2](flowchart.png)
